@@ -1,0 +1,17 @@
+
+.category-btn{
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    margin-bottom: 2px;
+    border: none;
+    
+}
+
+.category-btn:hover{
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+}
